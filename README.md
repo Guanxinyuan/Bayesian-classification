@@ -1,1 +1,1 @@
-# Bayesian-classification
+# Bayesian-image-classification
